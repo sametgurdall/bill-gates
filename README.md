@@ -9,7 +9,7 @@ A fun shopping simulation where users can spend Bill Gates' $100,000,000,000 for
 - Receipt section updates in real time with total spending and remaining balance.
 
 ## 🎥 Live Demo
-[Click Here to View the Live Project](#)  
+[Click Here to View the Live Project](https://glistening-sunshine-abf442.netlify.app)  
 _Please replace this placeholder with the actual live link._
 
 ## 📂 Project Structure
